@@ -1,0 +1,17 @@
+.result-container {
+    margin-top: 50px;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 32px;
+  }
+  
+  button {
+    font-size: 24px;
+  }

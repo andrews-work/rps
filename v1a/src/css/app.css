@@ -1,0 +1,8 @@
+#border {
+  height: 60vh;
+  width: 70vw;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  border: 1px solid black;
+}

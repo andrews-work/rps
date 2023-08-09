@@ -1,0 +1,23 @@
+.choice-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    margin: 20px;
+    background-color: #fff;
+    border: 5px solid #4CAF50;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #4CAF50;
+    color: #000000;
+    border: 5px solid #fff;
+  }
