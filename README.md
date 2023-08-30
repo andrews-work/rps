@@ -1,3 +1,5 @@
+![rock paper scissors](v1a/public/as.png)
+
 Rock Paper Scissors is a classic hand game brought to the digital world as a React application. Play against the computer and see who comes out as the winner!
 
 ---
