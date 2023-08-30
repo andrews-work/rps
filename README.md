@@ -37,7 +37,7 @@ I've demonstrated my JavaScript skills in creating this Rock Paper Scissors game
 ## Getting Started
 
 1. Clone or download the project to your local machine.
-2. Navigate to the project directory
+2. Navigate to the project directory: `cd v1a`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 5. Click "Start Game" to begin the Rock Paper Scissors match against the computer.
