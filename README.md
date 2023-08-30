@@ -2,6 +2,12 @@ Rock Paper Scissors is a classic hand game brought to the digital world as a Rea
 
 ---
 
+## Errors
+
+This is not finished, there are errors. This is a remake, I accidentally deleted the first version when trying to upload it to git...
+
+---
+
 ## Features
 
 - Play the classic Rock Paper Scissors game against the computer.
